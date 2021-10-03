@@ -11,10 +11,13 @@
     flex-direction: column;
     align-items: flex-start;
 
-    span {
+    p {
       font-size: 15px;
       line-height: 23px;
+      text-align: left;
     }
+
+    padding-bottom: 128px;
   }
 
   .nameContainer {
